@@ -59,7 +59,7 @@ color: #404bbf;
     color: #404bbf
 }
 .adress-item {}
-.hero {
+.title {
     background: var(--NAVY-BLUE, #2E2F42);
 }
 .hero-title {
@@ -71,13 +71,13 @@ line-height: 1.07em;
 letter-spacing: 0.02em;
 }
 .hero-butt {
-color: var(--WHITE, #FFF);
 font-family: inherit;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.04em;
-background-color: var(--IRIS, #404bbf);
+background-color: #4D5AE5;
+ color: #ffffff; 
 cursor: pointer;
 }
 .hero-butt:hover, .hero-butt:focus{
