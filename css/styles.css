@@ -131,7 +131,11 @@ cursor: pointer;
 
 }
 .portfolio-title{
-
+font-size: 20px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2e2f42;
 }
 .portfolio-item{
 
@@ -140,7 +144,12 @@ cursor: pointer;
 
 }
 .portfolio-text {
-
+    color: var(--NAVY-BLUE, #2E2F42);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;
 }
 .footer {
     background-color: var(--NAVY-BLUE, #2E2F42);
