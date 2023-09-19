@@ -105,8 +105,14 @@ cursor: pointer;
     background: var(--CLOUD, #F4F4FD);
 }
 .visual-team {
-  
+    font-size: 36px; 
+    line-height: 1.11; 
+    text-align: center; 
+    letter-spacing: 0.02em; 
+    text-transform: capitalize; 
+    color: #2e2f42;
 }
+
 .team-list {
 
 }
@@ -126,18 +132,23 @@ color: #2e2f42;
 
 }
 .portfolio-subtitle{
-
+    background-color: #FFFFFF;
 }
 .portfolio-text {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color:#2E2F42;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.4px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
+.portfolio-textunder{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+} 
 .footer {
-    background-color: var(--NAVY-BLUE, #2E2F42);
+    background-color:  #2E2F42);
 }
 .footer-logo {
     color: var(--CLOUD, #F4F4FD);
