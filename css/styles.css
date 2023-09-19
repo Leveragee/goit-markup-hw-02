@@ -35,8 +35,11 @@ a {
 
 .header-link:hover {
 font-family: Roboto;
-font-weight: 400;
-color: var(--OCEAN, #404bbf);}
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #404bbf;
+}
 .header-link:focus {
     color: #404bbf;
 }
