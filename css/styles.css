@@ -1,10 +1,16 @@
+body {
+    font-family: "Roboto", sans-serif; /* Задаємо шрифт на сайті */
+    color: #434455;
+    background-color: #FFFFFF; /* Фон сторінки */
+}
+
 .header { border-bottom: 1px solid var(--CORNFLOWER, #E7E9FC);
     background: var(--WHITE, #FFF);
 
 }
 .header-navigation {
     color: var(--IRIS, #4D5AE5);
-font-family: Raleway;
+font-family: Raleway, sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
