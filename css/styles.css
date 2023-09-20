@@ -168,15 +168,17 @@ line-height: 24px; /* 150% */
 letter-spacing: 0.32px;
 }
 .footer {
-    background-color:  #2E2F42);
+    background-color:  #2E2F42;
 }
 .footer-logo {
-    color: var(--CLOUD, #F4F4FD);
+    color:  #4d5ae5;
     font-family: "Raleway", sans-serif;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5em;
-    letter-spacing: 0.02em;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17em;
+    letter-spacing: 0.03em;
+    text-transform: uppercas;
+   
 }
 .footer-logo-span { 
     color: #F4F4FD;
