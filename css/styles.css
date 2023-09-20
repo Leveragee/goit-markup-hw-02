@@ -32,11 +32,11 @@ a {
     color: #4d5ae5;
 }
 .header-link { 
-    font-family: "Raleway", sans-serif;
-    line-height: 1.17;
+    font-weight: 500;
+    line-height: 1.15;
+    letter-spacing: 0.02em;
     color: #4d5ae5;
-    text-decoration: none;
-  
+    font-size: 16px;
 }
 
 .header-link:hover {
