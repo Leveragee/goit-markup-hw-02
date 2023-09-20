@@ -16,10 +16,10 @@ a {
 .header-navigation {}
 .header-logo {
     font-family: 'Raleway', sans-serif;
-    font-weight: 700;
+    font-weight: 500;
     font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
+    line-height: 1.15;
+    letter-spacing: 0.02em;
     text-transform: uppercase;
     color: #4d5ae5; }
 .header-logo span {
