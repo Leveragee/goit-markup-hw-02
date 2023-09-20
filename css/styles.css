@@ -25,6 +25,12 @@ a {
 .header-logo span {
     color: #2e2f42;
 }
+.header-menu{
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #4d5ae5;
+}
 .header-link { 
     font-family: "Raleway", sans-serif;
     line-height: 1.17;
