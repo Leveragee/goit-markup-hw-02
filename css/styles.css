@@ -112,11 +112,28 @@ cursor: pointer;
     text-transform: capitalize; 
     color: #2e2f42;
 }
-
 .team-list {
 
 }
 .team-item {
+}
+.team-name{
+    color: var(--NAVY-BLUE, #2E2F42);
+    text-align: center;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2; /* 120% */
+    letter-spacing: 0.02em;
+}
+.team-position {
+    color: var(--SLATE, #434455);
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5; 
+    letter-spacing: 0.02em;
 }
 .portfolio {
 
@@ -141,6 +158,14 @@ color: #2e2f42;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
+}
+.portfolio-up{
+    color: var(--SLATE, #434455);
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+letter-spacing: 0.32px;
 }
 .footer {
     background-color:  #2E2F42);
