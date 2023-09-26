@@ -45,9 +45,6 @@ color: #404bbf;
 .header-link:focus {
     color: #404bbf;
 }
-.container {
-width: 1116px; ;
-}
 
 
 .adress {
@@ -68,7 +65,6 @@ width: 1116px; ;
 .title {
     background: var(--NAVY-BLUE, #2E2F42);
 }
-.title-container {
     
 }
 .hero-title {
