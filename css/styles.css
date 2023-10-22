@@ -10,7 +10,7 @@ body {
 
 .header-navigation {}
 .header-logo {
-    font-family: "Roboto";
+    font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
